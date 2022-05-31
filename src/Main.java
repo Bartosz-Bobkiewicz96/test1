@@ -10,7 +10,7 @@ import java.util.Map;
             nameToMeal.put("Dominik", "Burger");
             nameToMeal.put("Paweł", "Salad");
 
-            System.out.println(nameToMeal.get("Dominik"));
+            System.out.println(nameToMeal.get("Mariusz"));
         }
     }
 
